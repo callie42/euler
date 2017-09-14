@@ -17,7 +17,7 @@ func euler1() -> Void {
     }
   }
   print("Sum of multiples of 3 & 5 below 1000 is \(sum)")
-  print("PE1: End")
-}// Multiples of 3 and 5
+  print("PE1: End\n")
+}
 
 

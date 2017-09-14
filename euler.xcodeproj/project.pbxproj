@@ -10,6 +10,7 @@
 		67412A241F6A13EF008DBAED /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A231F6A13EF008DBAED /* main.swift */; };
 		67412A2B1F6A14A2008DBAED /* euler1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2A1F6A14A2008DBAED /* euler1.swift */; };
 		67412A2D1F6A1631008DBAED /* euler2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2C1F6A1631008DBAED /* euler2.swift */; };
+		67412A2F1F6A1793008DBAED /* euler3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2E1F6A1793008DBAED /* euler3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		67412A231F6A13EF008DBAED /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		67412A2A1F6A14A2008DBAED /* euler1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler1.swift; sourceTree = "<group>"; };
 		67412A2C1F6A1631008DBAED /* euler2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler2.swift; sourceTree = "<group>"; };
+		67412A2E1F6A1793008DBAED /* euler3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				67412A231F6A13EF008DBAED /* main.swift */,
 				67412A2A1F6A14A2008DBAED /* euler1.swift */,
 				67412A2C1F6A1631008DBAED /* euler2.swift */,
+				67412A2E1F6A1793008DBAED /* euler3.swift */,
 			);
 			path = euler;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 				67412A241F6A13EF008DBAED /* main.swift in Sources */,
 				67412A2B1F6A14A2008DBAED /* euler1.swift in Sources */,
 				67412A2D1F6A1631008DBAED /* euler2.swift in Sources */,
+				67412A2F1F6A1793008DBAED /* euler3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

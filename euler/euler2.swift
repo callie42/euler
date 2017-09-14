@@ -37,6 +37,6 @@ func euler2() -> Void {
     }
   }
   
-  print("Sum of evens = \(sumFibonacciEven)\n")
-  print("PE2: End")
+  print("Sum of evens = \(sumFibonacciEven)")
+  print("PE2: End\n")
 }
