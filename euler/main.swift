@@ -12,3 +12,4 @@ print("Project Euler!")
 
 euler1();
 
+euler2();
