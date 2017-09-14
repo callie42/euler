@@ -10,3 +10,5 @@ import Foundation
 
 print("Project Euler!")
 
+euler1();
+

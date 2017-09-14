@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		67412A241F6A13EF008DBAED /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A231F6A13EF008DBAED /* main.swift */; };
+		67412A2B1F6A14A2008DBAED /* euler1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2A1F6A14A2008DBAED /* euler1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		67412A201F6A13EF008DBAED /* euler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = euler; sourceTree = BUILT_PRODUCTS_DIR; };
 		67412A231F6A13EF008DBAED /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		67412A2A1F6A14A2008DBAED /* euler1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				67412A231F6A13EF008DBAED /* main.swift */,
+				67412A2A1F6A14A2008DBAED /* euler1.swift */,
 			);
 			path = euler;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67412A241F6A13EF008DBAED /* main.swift in Sources */,
+				67412A2B1F6A14A2008DBAED /* euler1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
