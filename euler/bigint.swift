@@ -35,10 +35,6 @@ class BigInt : CustomStringConvertible {
     return val
   }
   
-  func raw() -> [Int] {
-    return value
-  }
-  
   init () {
   }
   

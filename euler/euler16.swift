@@ -26,11 +26,9 @@ func euler16() -> Void {
     power = power.add(power)
   }
   // We now have 2^1000 (a ~300 digit number)
-  // Now, go through powerString adding up the digits
-  var sum = 0
-  for i in power.raw() {
-    sum += i
-  }
+  
+  // OK Use map to do the work
+  let sum = power.value.reduce(0, +)
   
   print("PE16: 2^1000 = \(power)")
   print("PE16: sum of digits in 2^1000 = \(sum)")
