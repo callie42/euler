@@ -21,7 +21,7 @@ func smallestMultiple(_ x: Int) -> Int {
   if x == 2 {
     return 2
   }
-  
+
   let increment = smallestMultiple(x - 1)
   for i in 1 ... x {
     if (i * increment) % x == 0 {
