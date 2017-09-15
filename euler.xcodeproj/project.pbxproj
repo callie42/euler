@@ -18,6 +18,7 @@
 		2CAFA87B1F6BE9BD00A56E6C /* euler12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAFA87A1F6BE9BD00A56E6C /* euler12.swift */; };
 		2CAFA87D1F6BEB1900A56E6C /* bigint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAFA87C1F6BEB1900A56E6C /* bigint.swift */; };
 		2CAFA87F1F6BEBA700A56E6C /* euler13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAFA87E1F6BEBA700A56E6C /* euler13.swift */; };
+		2CAFA8811F6BED1F00A56E6C /* euler15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAFA8801F6BED1F00A56E6C /* euler15.swift */; };
 		67412A241F6A13EF008DBAED /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A231F6A13EF008DBAED /* main.swift */; };
 		67412A2B1F6A14A2008DBAED /* euler1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2A1F6A14A2008DBAED /* euler1.swift */; };
 		67412A2D1F6A1631008DBAED /* euler2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2C1F6A1631008DBAED /* euler2.swift */; };
@@ -50,6 +51,7 @@
 		2CAFA87A1F6BE9BD00A56E6C /* euler12.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler12.swift; sourceTree = "<group>"; };
 		2CAFA87C1F6BEB1900A56E6C /* bigint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bigint.swift; sourceTree = "<group>"; };
 		2CAFA87E1F6BEBA700A56E6C /* euler13.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler13.swift; sourceTree = "<group>"; };
+		2CAFA8801F6BED1F00A56E6C /* euler15.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler15.swift; sourceTree = "<group>"; };
 		67412A201F6A13EF008DBAED /* euler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = euler; sourceTree = BUILT_PRODUCTS_DIR; };
 		67412A231F6A13EF008DBAED /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		67412A2A1F6A14A2008DBAED /* euler1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler1.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				2CAFA87A1F6BE9BD00A56E6C /* euler12.swift */,
 				2CAFA87E1F6BEBA700A56E6C /* euler13.swift */,
 				2CAFA8721F6BE2EF00A56E6C /* euler14.swift */,
+				2CAFA8801F6BED1F00A56E6C /* euler15.swift */,
 			);
 			path = euler;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				67412A2D1F6A1631008DBAED /* euler2.swift in Sources */,
 				67412A2F1F6A1793008DBAED /* euler3.swift in Sources */,
 				2CAFA8791F6BE86600A56E6C /* euler8.swift in Sources */,
+				2CAFA8811F6BED1F00A56E6C /* euler15.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
