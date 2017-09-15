@@ -11,6 +11,7 @@
 		2CAFA86D1F6BDD0600A56E6C /* euler9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAFA86C1F6BDD0600A56E6C /* euler9.swift */; };
 		2CAFA86F1F6BE02900A56E6C /* support.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAFA86E1F6BE02900A56E6C /* support.swift */; };
 		2CAFA8711F6BE04900A56E6C /* euler7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAFA8701F6BE04900A56E6C /* euler7.swift */; };
+		2CAFA8731F6BE2EF00A56E6C /* euler14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAFA8721F6BE2EF00A56E6C /* euler14.swift */; };
 		67412A241F6A13EF008DBAED /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A231F6A13EF008DBAED /* main.swift */; };
 		67412A2B1F6A14A2008DBAED /* euler1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2A1F6A14A2008DBAED /* euler1.swift */; };
 		67412A2D1F6A1631008DBAED /* euler2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2C1F6A1631008DBAED /* euler2.swift */; };
@@ -36,6 +37,7 @@
 		2CAFA86C1F6BDD0600A56E6C /* euler9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler9.swift; sourceTree = "<group>"; };
 		2CAFA86E1F6BE02900A56E6C /* support.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = support.swift; sourceTree = "<group>"; };
 		2CAFA8701F6BE04900A56E6C /* euler7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler7.swift; sourceTree = "<group>"; };
+		2CAFA8721F6BE2EF00A56E6C /* euler14.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler14.swift; sourceTree = "<group>"; };
 		67412A201F6A13EF008DBAED /* euler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = euler; sourceTree = BUILT_PRODUCTS_DIR; };
 		67412A231F6A13EF008DBAED /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		67412A2A1F6A14A2008DBAED /* euler1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler1.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				2C4BAF2D1F6AB48600CC7443 /* euler6.swift */,
 				2CAFA8701F6BE04900A56E6C /* euler7.swift */,
 				2CAFA86C1F6BDD0600A56E6C /* euler9.swift */,
+				2CAFA8721F6BE2EF00A56E6C /* euler14.swift */,
 			);
 			path = euler;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				67412A331F6B6219008DBAED /* euler5.swift in Sources */,
 				2CAFA86F1F6BE02900A56E6C /* support.swift in Sources */,
 				67412A241F6A13EF008DBAED /* main.swift in Sources */,
+				2CAFA8731F6BE2EF00A56E6C /* euler14.swift in Sources */,
 				67412A2B1F6A14A2008DBAED /* euler1.swift in Sources */,
 				67412A311F6B4933008DBAED /* euler4.swift in Sources */,
 				2C4BAF2E1F6AB48600CC7443 /* euler6.swift in Sources */,
