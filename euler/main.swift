@@ -34,4 +34,7 @@ euler11()
 
 euler12()
 
+euler13()
+
 euler14()
+
