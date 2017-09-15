@@ -44,9 +44,6 @@ func collatz(_ n: Int) -> Int {
 // and incrment current by it
 func euler14() -> Void {
   print("PE14: Start")
-  print("collatz(5) = \(collatz(5))")
-  print("collatz(10) = \(collatz(10))")
-  print("collatz(13) = \(collatz(13))")
   print("PE14: Longest Collatz sequence")
   
   var answer = 0
