@@ -10,24 +10,24 @@ import Foundation
 
 print("Project Euler!")
 
-euler1();
+euler1()
 
-euler2();
+euler2()
 
-euler3();
+euler3()
 
-euler4();
+euler4()
 
-euler5();
+euler5()
 
-euler6();
+euler6()
 
-euler7();
+euler7()
 
-euler9();
+euler9()
 
 euler10()
 
 euler11()
 
-euler14();
+euler14()
