@@ -24,6 +24,8 @@ euler6()
 
 euler7()
 
+euler8()
+
 euler9()
 
 euler10()
