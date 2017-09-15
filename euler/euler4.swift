@@ -33,6 +33,6 @@ func euler4() -> Void {
       }
     }
   }
-  print("PE4: largest = \(largest)\n")
+  print("PE4: largest = \(largest)")
   print("PE4: End\n")
 }

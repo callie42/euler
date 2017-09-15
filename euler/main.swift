@@ -18,4 +18,6 @@ euler3();
 
 euler4();
 
+euler5();
+
 euler6();

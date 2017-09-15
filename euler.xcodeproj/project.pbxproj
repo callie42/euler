@@ -13,6 +13,7 @@
 		67412A2D1F6A1631008DBAED /* euler2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2C1F6A1631008DBAED /* euler2.swift */; };
 		67412A2F1F6A1793008DBAED /* euler3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A2E1F6A1793008DBAED /* euler3.swift */; };
 		67412A311F6B4933008DBAED /* euler4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A301F6B4933008DBAED /* euler4.swift */; };
+		67412A331F6B6219008DBAED /* euler5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67412A321F6B6219008DBAED /* euler5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		67412A2C1F6A1631008DBAED /* euler2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler2.swift; sourceTree = "<group>"; };
 		67412A2E1F6A1793008DBAED /* euler3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler3.swift; sourceTree = "<group>"; };
 		67412A301F6B4933008DBAED /* euler4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler4.swift; sourceTree = "<group>"; };
+		67412A321F6B6219008DBAED /* euler5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				67412A2C1F6A1631008DBAED /* euler2.swift */,
 				67412A2E1F6A1793008DBAED /* euler3.swift */,
 				67412A301F6B4933008DBAED /* euler4.swift */,
+				67412A321F6B6219008DBAED /* euler5.swift */,
 				2C4BAF2D1F6AB48600CC7443 /* euler6.swift */,
 			);
 			path = euler;
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67412A331F6B6219008DBAED /* euler5.swift in Sources */,
 				67412A241F6A13EF008DBAED /* main.swift in Sources */,
 				67412A2B1F6A14A2008DBAED /* euler1.swift in Sources */,
 				67412A311F6B4933008DBAED /* euler4.swift in Sources */,
