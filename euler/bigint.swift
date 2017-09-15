@@ -26,6 +26,19 @@ class BigInt : CustomStringConvertible {
     return val
   }
   
+  // convert ourselves back to a string
+  func toString() -> String {
+    var val = ""
+    for i in value.indices.reversed() {
+      val += String(value[i])
+    }
+    return val
+  }
+  
+  func raw() -> [Int] {
+    return value
+  }
+  
   init () {
   }
   

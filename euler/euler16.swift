@@ -1,0 +1,39 @@
+//
+//  euler16.swift
+//  euler
+//
+//  Created by Callie on 15/9/17.
+//  Copyright © 2017 crc. All rights reserved.
+//
+
+import Foundation
+
+
+
+//
+// 2^15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
+//
+// What is the sum of the digits of the number 2^1000?
+//
+
+
+
+func euler16() -> Void {
+  print("PE16: Start")
+  print("PE16: Power Sum Digit")
+  var power = BigInt(s: "1")
+  for _ in 1 ... 1000 {
+    power = power.add(power)
+  }
+  // We now have 2^1000 (a ~300 digit number)
+  // Now, go through powerString adding up the digits
+  var sum = 0
+  for i in power.raw() {
+    sum += i
+  }
+  
+  print("PE16: Power Sum Digit = \(power)")
+  print("PE16: Power Sum Digit = \(sum)")
+
+  print("PE16: End\n")
+}
