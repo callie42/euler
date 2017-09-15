@@ -17,6 +17,8 @@ import Foundation
 //
 
 func euler10() -> Void {
+  print("PE10: SUm of Primes\n")
+
   var sum = 0
   for i in 1 ..< 2000000 {
     if isPrime(i) {
@@ -24,4 +26,5 @@ func euler10() -> Void {
     }
   }
   print("PE10: Summation of primes \(sum)")
+  print("PE10: End\n")
 }
