@@ -16,4 +16,6 @@ euler2();
 
 euler3();
 
+euler4();
+
 euler6();
