@@ -34,6 +34,6 @@ func euler6() -> Void {
     squaresSums += i
   }
   squaresSums *= squaresSums
-  print("PE6: Sum square difference: \(squaresSums - sumSquares)\n")
+  print("PE6: Sum square difference: \(squaresSums - sumSquares)")
   print("PE6: End\n")
 }

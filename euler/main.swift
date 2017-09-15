@@ -21,3 +21,5 @@ euler4();
 euler5();
 
 euler6();
+
+euler9();
