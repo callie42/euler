@@ -32,4 +32,6 @@ euler10()
 
 euler11()
 
+euler12()
+
 euler14()
